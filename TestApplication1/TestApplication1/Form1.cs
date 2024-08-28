@@ -15,7 +15,7 @@ namespace TestApplication1
         {
             if (string.IsNullOrEmpty(textEmail.Text))
             {
-                //add comments for better understanding
+                
                 MessageBox.Show("please Enter User Email ");
             }
             if (string.IsNullOrEmpty(txtPassword.Text)) {
